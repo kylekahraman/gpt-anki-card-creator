@@ -2,6 +2,8 @@
 *.txt
 *.csv
 *.apkg
+*.DS_Store
+*.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
